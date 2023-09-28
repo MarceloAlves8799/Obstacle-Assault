@@ -16,6 +16,8 @@ void AMovingPlataform::BeginPlay()
 {
 	Super::BeginPlay();
 
+	MyX = MyVector.X;
+	MyVector.Set(MyX, MyNewY, 0);
 }
 
 // Called every frame
