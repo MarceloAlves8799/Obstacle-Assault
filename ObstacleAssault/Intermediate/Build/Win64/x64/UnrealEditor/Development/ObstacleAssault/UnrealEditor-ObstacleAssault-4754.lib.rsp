@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssault-4754.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\ObstacleAssaultEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\MovingPlataform.gen.cpp.obj"
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.init.gen.cpp.obj"
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\MovingPlataform.cpp.obj"
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\ObstacleAssault.cpp.obj"
+"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\Default.rc2.res"
+/OUT:"D:\Unreal\Obstacle-Assault\ObstacleAssault\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssault\UnrealEditor-ObstacleAssault-4754.lib"
