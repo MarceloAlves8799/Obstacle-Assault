@@ -10,7 +10,8 @@
 				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
 				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_MovingPlataform.uasset",
 				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_PushingCube.uasset",
-				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset"
+				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"D:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_RotatingPlataform.uasset"
 			]
 		}
 	]
